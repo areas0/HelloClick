@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Hello Click</string>
+    <string name="legend">Click me</string>
+    <string name="click_me">CLICK ME!</string>
+    <string name="reset">RESET</string>
+    <string name="reverse">REVERSE</string>
+    <string name="normal">NORMAL</string>
+    <string name="big">BIG</string>
+    <string name="increment_size">Change increment size</string>
+</resources>
